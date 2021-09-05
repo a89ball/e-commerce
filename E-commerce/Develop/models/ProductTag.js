@@ -28,7 +28,6 @@ ProductTag.init(
         unique: false
       }
     },
-    // define columns
   },
   {
     sequelize,
