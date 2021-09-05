@@ -7,7 +7,7 @@ router.use('/categories', categoryRoutes);
 router.use('/products', productRoutes);
 router.use('/tags', tagRoutes);
 
-router.use('/api', apiRoutes);
+
 
 
 module.exports = router;
